@@ -1,7 +1,6 @@
 import { Button } from "@mantine/core";
 
-export default function Ds4
- () {
+export default function BinarySearch () {
      return (
             <Button>Hello</Button>
         )

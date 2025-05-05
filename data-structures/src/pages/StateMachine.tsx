@@ -1,6 +1,6 @@
 import { Button } from "@mantine/core";
 
-export default function Ds6 () {
+export default function StateMachine () {
      return (
             <Button>Hello</Button>
         )

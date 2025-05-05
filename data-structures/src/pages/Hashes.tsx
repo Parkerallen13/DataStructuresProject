@@ -1,6 +1,6 @@
 import { Button } from "@mantine/core";
 
-export default function Ds8 () {
+export default function Hashes () {
      return (
             <Button>Hello</Button>
         )
